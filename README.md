@@ -1,6 +1,6 @@
 Introduction
     Project Name: 
-        Automated Custom Document Model Processor
+        Automated Custom Document Model Processor test
 
     Synopsis: 
         This project aims to build an automated custom document processing pipeline. The specifix use case in this project is to load and analyze Patient Discharge Summary documents. 
@@ -11,8 +11,7 @@ Introduction
         
         Another important feature is Entity linking to concepts found in a predefined database of concepts including the Unified Medical Language System (UMLS).  
 
-    Process Flow:
-        [](Custom%20document%20processing%20-%20Architecture.pdf)
+    Process Flow: 
 
 Prerequisites
     Python 3.7 or later is required to use this package
